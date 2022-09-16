@@ -1,0 +1,8 @@
+Buat Restfull API menggunakan nodejs dengan end point
+Registrasi User [email, first_name, last_name, password]
+CRUD Data Produk [kode_produk, nama_produk, qty, image_produk]
+Gunakan Token Auth, untuk dapat mengakses end point CRUD data produk harus login terlebih dahulu
+Terapkan pagination untuk get all data produk
+Terapkan metode MVC
+Gunakan library sequelize
+Kumpulkan jawaban maksimal besok jam 10
